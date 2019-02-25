@@ -1,0 +1,2 @@
+# soso
+my first repository
